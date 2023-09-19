@@ -1,1 +1,1 @@
-# facial-recognition using opencv and tensorflow
+# facial-recognition using opencv
